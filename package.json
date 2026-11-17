@@ -1,6 +1,6 @@
 {
   "name": "@dvantage/nestjs-nats",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "NATS JetStream events and NATS RPC for NestJS services",
   "author": "Vladimir Dorogov",
   "license": "MIT",
