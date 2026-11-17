@@ -1,0 +1,3 @@
+export const NATS_MODULE_OPTIONS = 'NATS_MODULE_OPTIONS';
+
+export const NATS_RPC_PROVIDER_NAME = 'NATS_RPC';
